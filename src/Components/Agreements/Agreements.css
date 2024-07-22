@@ -1,0 +1,15 @@
+
+.moredetail-showmore button{
+    font-family: "Nunito";
+    color: #797979;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 1% 1%;
+}
+.moredetail-showmore button:hover{
+    font-family: "Nunito";
+    color: #16181b;
+    background-color: #e9ecef;
+    transition: all 0.3s;
+}

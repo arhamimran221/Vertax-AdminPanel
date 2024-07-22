@@ -1,0 +1,27 @@
+.Add-vehicle-main{
+    display: flex;
+    width: 100%;
+}
+.left-form{
+    width: 70%;
+}
+.right-img{
+    width: 30%;
+    margin-left: -10%;
+}
+.form-input-fields{
+    display: flex;
+    width: 100%;
+}
+.input-field{
+    width: 48%;
+}
+.input-field-right{
+    margin-left: -15%;
+    width: 50%;
+}
+:where(.css-dev-only-do-not-override-190m0jy).ant-col-4 {
+    display: block;
+    flex: 0 0 16.666666666666664%;
+    max-width: 40%;
+}

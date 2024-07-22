@@ -1,0 +1,20 @@
+.moredetail-icon-Invoices button{
+    background: #f6ffed;
+    border: 1px solid #b8eb8f;
+    color: #3fa117;
+    padding: 8% 8%;
+    border-radius: 5px;
+
+}
+.moredetail-icon-booking{
+    cursor: pointer;
+   font-size: 18px;
+   font-weight: 900;
+   background-color: #ffed03;
+   width: fit-content;
+}
+.pending-red button{
+    background-color: #fff2e8;
+    border: 1px solid #ffd6bf;
+    color: #d53b12;
+}
